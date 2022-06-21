@@ -2,7 +2,7 @@ package KUnit2;
 
 public class Ref02 {
 
-	public static void main(String[] args) {
+	public static void main(String[] rgs) {
 		// TODO Auto-generated method stub
 
 		SimpleM sm = new SimpleM();
